@@ -16,11 +16,11 @@ body {
 
 h1 {color: blue;
   font-size: 16px;
-  text-align: center;
+  text-align: right;
 }
 
-H2 {color: Teal;
-  font-size: 14px;
+H2 {color: blue;
+  font-size: 20px;
 }
 h3{
   font-size: 30px;
@@ -63,7 +63,7 @@ img{
 }
 
 .title {
-  font-size: 48px;
+  font-size: 38px;
   text-decoration: ;
 }
 Header h1 {
@@ -103,4 +103,13 @@ a:hover {
 }
 .column-2{
   width: 70%;
+  font-size: 20px;
+}
+
+.bear-pic {
+  width: 100%;
+}
+
+footer {
+  clear: both;
 }
