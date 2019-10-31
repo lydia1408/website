@@ -89,3 +89,8 @@ a:hover {
   background-size: cover;
   background-position: center;
 }
+.float-image {
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
