@@ -1,0 +1,91 @@
+/*Website Style*/
+* {
+  font-size: 100%;
+
+}
+
+body {
+  background-color: grey;
+  background-image: url(pictures/pow-star.png);
+  background-repeat: repeat;
+  color: darkblue;
+  font-family:'Lato',Arial, sans-serif;
+  font-size 14px;
+
+}
+
+h1 {color: blue;
+  font-size: 16px;
+  text-align: center;
+}
+
+H2 {color: Teal;
+  font-size: 14px;
+}
+h3{
+  font-size: 20px;
+}
+h1,h2,h3 {
+  font-weight: 800;
+  font-style: italic;
+  margin-bottom:
+}
+
+p {
+  margin: 15px 0;
+  line-height: 2;
+}
+
+ul, ol{
+  margin: 15px 0;
+}
+
+
+header,
+section,
+footer{
+  padding: 30px;
+}
+
+header{
+
+}
+
+section{
+  border: 1px solid gainsboro;
+  background-color:
+  margin:
+  padding:
+}
+
+img{
+  height: 300px;
+}
+
+.title {
+  font-size: 48px;
+  text-decoration: ;
+}
+Header h1 {
+  text-align: center;
+}
+
+a {
+  color: red;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.container{
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.banner{
+  height: 350px;
+  background-image: url(pictures/Polar-bears-ice-floe-Norway.jpg);
+  background-size: cover;
+  background-position: center;
+}
