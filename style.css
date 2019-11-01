@@ -14,7 +14,7 @@ body {
 
 }
 
-h1 {color: blue;
+h1 {color: black;
   font-size: 16px;
   text-align: center;
 }
@@ -27,7 +27,7 @@ h3{
 }
 h1,h2,h3 {
   font-weight: 800;
-  font-style: italic;
+  font-style:  'dancingscript',cursive;
   margin-bottom:
 }
 
@@ -68,6 +68,7 @@ img{
 }
 Header h1 {
   text-align: center;
+  font-style: 'Dancing script';
 }
 
 a {
@@ -99,15 +100,15 @@ a:hover {
   float: left;
 }
 .column-1{
-  width: 30%;
+  width: 25%;
 }
 .column-2{
-  width: 70%;
+  width: 60%;
   font-size: 20px;
 }
 
 .bear-pic {
-  width: 100%;
+  width: 95%;
 }
 
 footer {
